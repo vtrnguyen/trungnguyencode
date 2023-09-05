@@ -4,5 +4,6 @@
 4. NPM/(Node Package Manager)
 5. Express App (Hello World)
 6. View Engines (giúp sử dụng các điều kiện logic trong file HTML)
-
 7. Static Files
+
+8. Routers and MVC
