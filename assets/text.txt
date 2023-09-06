@@ -6,5 +6,6 @@
 6. View Engines (giúp sử dụng các điều kiện logic trong file HTML)
 7. Static Files
 8. Routers and MVC
-
 9. HTTP Request Method / Database
+
+10. Create Nav / EJS LOOP
